@@ -1,6 +1,6 @@
-[![Header](https://github.com/artichokeee/artichokeee/blob/main/assets/Frame%20635%20(3).png)](https://artsiomrusau.com/)
-## I'm a QA Engineer and Tutor. 
-## A creator of "Artsiom Rusau QA Life" Youtube channel 
+[![Header](https://github.com/Bajnou/Alexey/blob/main/assets/pnd.png)](https://www.youtube.com/user/Stanleyxxl/)
+## I'm a QA Engineer. 
+## A creator of "hamster travel channel" Youtube channel 
 
 ## Latest Youtube Videos
 
